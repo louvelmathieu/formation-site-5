@@ -1,12 +1,12 @@
 branch-defaults:
   main:
-    environment: Formation-5-env
+    environment: Formation-1-env
 environment-defaults:
   Formation-1-env:
     branch: null
     repository: null
 global:
-  application_name: formation-5
+  application_name: formation-1
   default_ec2_keyname: null
   default_platform: Go 1 running on 64bit Amazon Linux 2
   default_region: eu-west-3
